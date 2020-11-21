@@ -5,6 +5,11 @@
 Необходимо написать скрипт, который сможет найти максимальное количество ошибок структуры и данных в первой папке.<br>
 Лог лежит в файле validate.log
 ***
+Результаты проверки схем на ошибки:<br>
+cmarker_created.schema is OK<br>
+schema\label_selected.schema is OK<br>
+schema\sleep_created.schema is OK<br>
+schema\workout_created.schema is OK<br>
 ### Таблица валидности файлов для каждой схемы:
 | File | cmarker_created.schema |	label_selected.schema | sleep_created.schema | workout_created.schema |	
 |-------------------------------------------|:-:|:-:|:-:|:-:|
